@@ -1,3 +1,3 @@
-# CS 2.2 Homework 5 Starter Code
+# CS 2.2 Homework 5: Dynamic Programming
 
-Follow the instructions [here](https://make-school-courses.github.io/CS-2.2-Graphs-Recursion/#/Assignments/05-Dynamic-Programming) to get started!
+This project contains solutions to longest common subsequence, 0-1 knapsack, and edit distance.
