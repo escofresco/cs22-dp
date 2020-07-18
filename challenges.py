@@ -88,5 +88,4 @@ def edit_distance_dp(str1, str2):
                                   if str1[row - 1] == str2[col - 1]
                                   else 1 + min(dp_table[row - 1][col],
                                                dp_table[row][col - 1]))
-    print(dp_table)
     return dp_table[rows-1][cols-1]
